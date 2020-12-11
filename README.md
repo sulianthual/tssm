@@ -5,7 +5,7 @@
 
 <h4>Tropical Stochastic Skeleton Model (TSSM)</h4>
 
-code by Sulian Thual 
+code by Sulian Thual (2020)
 
 Matlab code to integrate a TSSM model for climate variability in the tropics (El Nino Southern Oscillation and Madden-Julian Oscillation) and perform several analysis.
 
