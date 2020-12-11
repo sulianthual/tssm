@@ -14,7 +14,7 @@ references: github: https://github.com/sulianthual/tssm
 <h4>Introduction: </h4>
 
 
-The El Nino Southern Oscillation (ENSO) and the Madden-Julian Oscillation (MJO) are major climate phenomena in the tropics. The present tropical stochastic skeleton model (TSSM) simulates both phenomena and provides important theoretical understanding on their interactions. The model is described in details in a scientific article: 
+The El Nino Southern Oscillation (ENSO) and the Madden-Julian Oscillation (MJO) are major climate phenomena in the tropics. The TSSM simulates both phenomena and provides important theoretical understanding on their interactions. The model is described in details in a scientific article: 
 
 Thual, S., Majda, A.J. and Chen, N., 2018: A Tropical Stochastic Skeleton Model for the MJO, El Niño and Dynamic Walker Circulation: A Simplified GCM. J. Climate, doi: 10.1175/JCLI-D-18-0263.1
 
