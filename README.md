@@ -9,7 +9,7 @@ code by Sulian Thual
 
 Matlab code to integrate a TSSM model for climate variability in the tropics (El Nino Southern Oscillation and Madden-Julian Oscillation) and perform several analysis.
 
-references: github: https://github.com/sulianthual/tssm
+references: https://github.com/sulianthual/tssm
 
 <h4>Introduction: </h4>
 
